@@ -1,0 +1,501 @@
+amount,term,month,age,education,gender,bad
+1000,30,June,45,High School or Below,male,0
+1000,30,July,50,Bachelor,female,0
+1000,30,August,33,Bachelor,female,0
+1000,15,September,27,college,male,0
+1000,30,October,28,college,female,0
+300,7,July,35,Master or Above,male,0
+1000,30,September,29,college,male,0
+1000,30,May,36,college,male,0
+1000,30,May,28,college,male,0
+800,15,April,26,college,male,0
+300,7,April,29,college,male,0
+1000,15,September,39,High School or Below,male,0
+1000,30,December,26,college,male,0
+900,7,May,26,college,female,0
+1000,7,May,27,High School or Below,male,0
+800,15,July,26,college,male,0
+1000,30,July,40,High School or Below,male,0
+1000,15,January,32,High School or Below,male,0
+1000,30,August,32,High School or Below,male,0
+800,30,April,26,college,male,0
+1000,30,July,26,college,male,0
+1000,30,May,43,High School or Below,female,0
+1000,30,October,25,High School or Below,male,0
+1000,15,August,26,college,male,0
+1000,30,March,26,college,male,0
+1000,30,August,29,High School or Below,male,0
+800,15,April,39,Bachelor,male,0
+1000,15,June,34,Bachelor,male,0
+1000,30,June,31,college,male,0
+1000,30,November,33,college,male,0
+800,15,February,33,High School or Below,male,0
+1000,30,March,37,college,male,0
+1000,30,May,27,college,male,0
+1000,30,October,37,college,male,0
+800,15,January,33,college,male,0
+800,15,January,29,Bachelor,male,0
+1000,30,July,27,High School or Below,male,0
+700,15,September,33,High School or Below,male,0
+1000,15,May,24,college,male,0
+1000,30,February,21,Bachelor,male,0
+1000,15,September,32,college,female,0
+800,15,February,30,college,male,0
+1000,7,January,31,Bachelor,male,0
+1000,15,October,30,college,male,0
+1000,15,July,24,Bachelor,female,0
+800,7,July,35,High School or Below,male,0
+1000,30,July,22,High School or Below,male,0
+1000,30,July,32,college,male,0
+1000,30,September,32,Bachelor,male,0
+800,15,February,50,High School or Below,male,0
+800,15,December,27,college,female,0
+1000,30,July,35,Bachelor,female,0
+800,15,November,35,Bachelor,female,0
+1000,30,January,34,High School or Below,male,0
+1000,30,October,21,High School or Below,male,0
+1000,15,July,25,college,male,0
+1000,30,May,27,High School or Below,male,0
+1000,30,May,26,Bachelor,male,0
+800,15,December,44,High School or Below,female,0
+800,15,January,39,Master or Above,male,0
+1000,30,December,34,Bachelor,male,0
+1000,15,September,37,college,male,0
+1000,30,January,34,High School or Below,male,0
+1000,30,April,45,college,male,0
+800,15,March,24,High School or Below,male,0
+900,15,February,28,college,male,0
+1000,30,July,28,Bachelor,male,0
+1000,30,September,37,High School or Below,male,0
+300,7,December,35,college,male,0
+1000,30,November,43,Bachelor,male,0
+800,15,April,29,college,male,0
+800,15,July,29,High School or Below,male,0
+1000,30,August,33,Bachelor,female,0
+1000,15,April,34,college,male,0
+1000,15,July,25,college,male,0
+1000,30,April,30,High School or Below,male,0
+1000,30,February,31,Bachelor,male,0
+1000,30,December,35,college,male,0
+1000,30,November,37,college,female,0
+1000,30,June,44,High School or Below,female,0
+1000,30,July,28,High School or Below,male,0
+1000,7,September,25,college,male,0
+1000,15,November,29,college,male,0
+800,15,November,33,college,male,0
+1000,30,April,37,High School or Below,female,0
+1000,30,February,33,college,male,0
+1000,30,November,24,High School or Below,female,0
+1000,30,May,27,college,female,0
+800,15,May,43,Bachelor,male,0
+800,15,August,46,High School or Below,female,0
+800,15,December,34,college,female,0
+1000,7,August,32,Bachelor,female,0
+800,15,March,38,High School or Below,male,0
+800,15,December,27,High School or Below,male,0
+1000,30,December,33,High School or Below,male,0
+1000,30,July,36,college,male,0
+1000,15,November,26,High School or Below,male,0
+1000,30,February,34,college,male,0
+1000,30,January,22,High School or Below,male,0
+1000,30,June,31,Bachelor,female,0
+1000,7,June,29,High School or Below,male,0
+800,15,November,38,college,male,0
+1000,30,August,30,college,male,0
+1000,15,October,45,High School or Below,male,0
+1000,15,February,35,college,male,0
+1000,30,June,30,college,male,0
+1000,30,September,31,High School or Below,male,0
+1000,30,September,31,High School or Below,male,0
+1000,30,July,28,college,male,0
+1000,7,July,29,college,male,0
+800,15,August,29,college,male,0
+1000,30,January,27,college,female,0
+1000,30,May,27,college,male,0
+1000,30,August,33,college,male,0
+1000,30,November,28,college,male,0
+1000,15,July,25,High School or Below,male,0
+1000,30,March,40,college,male,0
+1000,30,October,23,High School or Below,male,0
+1000,30,May,35,Bachelor,male,0
+800,15,June,24,college,male,0
+1000,30,April,34,college,male,0
+1000,30,January,22,High School or Below,male,0
+1000,15,June,20,college,male,0
+1000,15,November,23,college,male,0
+1000,30,July,33,college,male,0
+1000,30,August,26,college,male,0
+1000,15,March,28,High School or Below,male,0
+800,15,October,43,High School or Below,male,0
+1000,15,October,34,Bachelor,male,0
+1000,30,June,38,Bachelor,male,0
+1000,15,June,26,High School or Below,male,0
+800,15,January,43,High School or Below,male,0
+1000,30,September,26,High School or Below,male,0
+1000,30,May,33,college,female,0
+800,15,January,24,college,male,0
+1000,30,July,30,High School or Below,male,0
+800,15,November,32,High School or Below,female,0
+1000,15,November,22,college,male,0
+1000,15,April,47,High School or Below,male,0
+1000,30,March,20,High School or Below,male,0
+1000,30,May,28,High School or Below,male,0
+800,15,July,35,college,male,0
+1000,7,January,27,High School or Below,male,0
+800,15,January,33,college,female,0
+1000,30,November,30,High School or Below,male,0
+1000,15,June,31,college,male,0
+1000,30,October,26,college,female,0
+300,7,November,37,Master or Above,male,0
+1000,15,October,26,Bachelor,male,0
+800,15,August,35,Bachelor,male,0
+1000,15,March,29,college,male,0
+800,15,December,23,college,male,0
+500,15,June,23,college,female,0
+1000,15,June,30,college,male,0
+1000,30,October,34,college,male,0
+1000,30,August,36,High School or Below,female,0
+1000,15,August,26,Bachelor,male,0
+800,15,December,29,High School or Below,male,0
+1000,15,October,28,college,female,0
+1000,30,December,27,High School or Below,male,0
+1000,15,May,24,High School or Below,male,0
+800,15,April,31,Bachelor,male,0
+1000,30,April,28,High School or Below,male,0
+1000,15,May,27,college,female,0
+1000,15,March,25,High School or Below,male,0
+1000,30,November,24,High School or Below,male,0
+1000,30,September,28,college,male,0
+800,30,July,28,college,male,0
+1000,15,May,35,High School or Below,male,0
+1000,30,December,38,college,male,0
+1000,15,December,38,High School or Below,male,0
+1000,30,June,29,college,male,0
+800,15,October,35,High School or Below,male,0
+1000,30,February,24,college,male,0
+800,15,January,39,High School or Below,male,0
+800,15,July,25,college,male,0
+1000,30,July,38,High School or Below,male,0
+1000,30,August,30,college,male,0
+1000,30,October,21,High School or Below,male,0
+1000,30,October,46,college,male,0
+1000,15,October,31,High School or Below,female,0
+300,7,October,29,High School or Below,male,0
+1000,30,April,35,High School or Below,male,0
+800,15,February,30,High School or Below,male,0
+1000,30,July,27,High School or Below,male,0
+1000,30,July,31,High School or Below,female,0
+1000,30,February,33,Bachelor,male,0
+1000,15,October,34,High School or Below,male,0
+800,15,April,28,college,male,0
+800,15,June,42,college,male,0
+1000,30,February,32,college,male,0
+1000,30,March,30,High School or Below,male,0
+1000,15,March,25,High School or Below,female,0
+1000,30,August,27,High School or Below,female,0
+800,15,August,21,college,male,0
+1000,30,December,24,college,male,0
+1000,30,November,29,college,male,0
+1000,15,August,40,college,male,0
+1000,30,March,29,High School or Below,male,0
+1000,30,July,29,college,male,0
+1000,15,May,30,college,male,0
+1000,30,March,26,High School or Below,female,0
+1000,15,March,36,High School or Below,male,0
+800,15,May,27,college,male,0
+1000,30,August,20,college,male,0
+1000,7,November,26,Bachelor,female,0
+1000,30,April,26,college,male,0
+1000,30,August,27,college,male,0
+300,7,December,23,High School or Below,male,0
+1000,30,December,39,High School or Below,male,0
+1000,15,June,27,High School or Below,male,0
+1000,30,June,30,High School or Below,male,0
+1000,30,June,33,High School or Below,female,0
+1000,30,January,27,High School or Below,male,0
+1000,30,February,35,High School or Below,male,0
+1000,30,January,29,college,female,0
+1000,15,October,50,High School or Below,male,0
+800,15,November,31,High School or Below,female,0
+1000,15,February,31,High School or Below,male,0
+1000,30,June,29,High School or Below,male,0
+1000,15,July,35,college,male,0
+1000,30,January,39,college,male,0
+1000,30,December,29,college,male,0
+1000,15,February,30,High School or Below,male,0
+1000,30,July,33,Bachelor,male,0
+1000,30,January,26,High School or Below,male,0
+1000,15,September,25,High School or Below,male,0
+800,15,May,37,Bachelor,male,0
+800,15,February,26,High School or Below,male,0
+800,15,January,26,college,male,0
+1000,15,September,27,college,male,0
+1000,7,November,34,college,female,0
+1000,30,December,37,college,male,0
+1000,30,March,36,High School or Below,male,0
+800,15,March,33,High School or Below,male,0
+1000,30,October,30,High School or Below,male,0
+1000,30,January,30,college,male,0
+800,15,August,36,High School or Below,male,0
+1000,15,April,29,college,male,0
+1000,15,February,36,High School or Below,male,0
+1000,30,February,32,High School or Below,male,0
+1000,15,July,29,High School or Below,female,0
+800,15,May,36,Bachelor,male,0
+800,15,February,30,High School or Below,female,0
+1000,7,September,31,college,male,0
+1000,30,June,19,High School or Below,female,0
+800,15,July,26,college,male,0
+800,15,January,34,High School or Below,male,0
+1000,30,June,35,High School or Below,male,0
+1000,15,November,35,Bachelor,female,0
+800,15,July,38,college,male,0
+1000,30,December,29,college,male,0
+1000,30,January,28,High School or Below,male,0
+500,7,May,22,High School or Below,male,0
+1000,30,April,32,college,male,0
+1000,30,September,31,college,male,0
+800,15,October,28,college,male,0
+1000,15,September,37,college,female,0
+1000,7,June,25,college,male,0
+1000,30,January,19,High School or Below,male,0
+800,15,March,51,college,male,0
+1000,15,January,29,High School or Below,male,0
+800,30,March,23,college,female,0
+1000,15,August,30,High School or Below,male,0
+800,15,September,23,college,male,0
+1000,15,November,34,Bachelor,female,0
+800,15,October,31,Bachelor,female,0
+1000,15,April,24,High School or Below,male,0
+1000,30,April,42,High School or Below,male,0
+800,30,August,40,college,female,0
+1000,30,January,29,High School or Below,male,0
+1000,30,December,32,college,female,0
+1000,30,September,28,college,male,0
+1000,30,November,35,High School or Below,male,0
+1000,30,May,30,Bachelor,male,0
+800,15,August,44,college,male,0
+800,15,July,37,High School or Below,male,0
+1000,30,December,31,college,male,0
+800,15,January,36,college,male,0
+800,30,February,31,college,male,0
+800,15,June,42,High School or Below,male,0
+1000,15,March,28,Bachelor,male,0
+1000,30,December,30,college,male,0
+1000,30,September,30,High School or Below,male,0
+1000,15,August,24,Bachelor,male,0
+1000,30,October,34,Bachelor,male,0
+1000,30,March,29,college,male,0
+1000,30,May,38,High School or Below,female,0
+1000,30,May,34,Bachelor,male,0
+800,15,April,28,High School or Below,male,0
+1000,15,October,30,college,female,0
+1000,30,February,41,High School or Below,male,0
+1000,30,July,29,college,male,0
+1000,30,May,37,High School or Below,male,0
+1000,30,February,36,Bachelor,male,0
+1000,30,December,30,college,female,0
+800,15,April,27,college,male,0
+1000,30,May,29,High School or Below,male,0
+1000,30,May,40,High School or Below,male,0
+1000,30,February,28,college,male,0
+1000,15,September,29,college,male,1
+1000,30,October,37,High School or Below,male,1
+1000,30,June,33,High School or Below,male,1
+800,15,November,27,college,male,1
+800,15,January,24,Bachelor,male,1
+1000,15,May,31,High School or Below,female,1
+800,15,November,28,college,male,1
+1000,30,April,40,High School or Below,male,1
+1000,30,July,33,college,male,1
+800,15,October,41,college,male,1
+1000,30,May,30,college,male,1
+800,15,July,26,High School or Below,female,1
+1000,30,February,27,High School or Below,male,1
+1000,30,November,20,High School or Below,male,1
+1000,30,December,24,college,male,1
+1000,15,July,26,High School or Below,male,1
+1000,30,April,30,High School or Below,male,1
+1000,15,May,29,High School or Below,male,1
+1000,30,November,22,Bachelor,male,1
+1000,15,December,24,Bachelor,male,1
+1000,30,May,25,college,male,1
+1000,30,January,28,High School or Below,male,1
+1000,30,November,37,college,male,1
+800,15,December,32,college,male,1
+1000,15,July,34,college,male,1
+1000,30,September,28,Bachelor,male,1
+800,15,August,35,Bachelor,male,1
+1000,30,June,27,college,male,1
+1000,30,April,24,High School or Below,female,1
+1000,30,September,44,Bachelor,male,1
+1000,15,December,31,college,male,1
+800,15,April,27,college,male,1
+1000,30,February,21,High School or Below,male,1
+1000,30,April,30,High School or Below,female,1
+1000,30,May,38,college,female,1
+1000,30,January,34,High School or Below,male,1
+1000,30,March,31,college,male,1
+1000,30,October,23,High School or Below,male,1
+1000,15,March,27,college,female,1
+1000,15,June,39,High School or Below,male,1
+1000,30,June,30,High School or Below,female,1
+1000,30,December,25,college,male,1
+1000,15,December,50,Master or Above,male,1
+1000,30,July,23,High School or Below,male,1
+800,15,September,38,Bachelor,male,1
+1000,30,March,27,High School or Below,male,1
+1000,30,October,31,High School or Below,male,1
+800,15,August,40,college,male,1
+1000,30,August,32,High School or Below,male,1
+800,15,April,29,college,male,1
+1000,30,October,26,High School or Below,male,1
+1000,15,April,25,college,male,1
+1000,30,June,35,High School or Below,male,1
+1000,30,July,41,High School or Below,male,1
+1000,30,December,37,High School or Below,male,1
+1000,15,February,34,college,male,1
+1000,30,July,45,High School or Below,male,1
+1000,30,October,26,Bachelor,male,1
+1000,30,December,32,college,male,1
+1000,30,July,28,High School or Below,male,1
+1000,30,October,34,college,male,1
+800,15,June,29,High School or Below,male,1
+1000,30,August,26,High School or Below,male,1
+1000,15,November,26,college,male,1
+800,15,February,22,college,male,1
+1000,30,January,27,High School or Below,female,1
+800,30,January,33,High School or Below,male,1
+800,15,August,28,Bachelor,male,1
+1000,30,May,24,college,male,1
+1000,30,August,37,High School or Below,male,1
+800,15,August,36,High School or Below,male,1
+1000,30,October,18,college,male,1
+800,15,April,25,High School or Below,male,1
+1000,15,August,40,High School or Below,male,1
+1000,30,October,29,college,male,1
+800,15,December,26,High School or Below,female,1
+1000,15,December,30,college,male,1
+1000,30,October,33,college,male,1
+1000,30,November,30,college,male,1
+1000,30,May,32,college,male,1
+1000,30,August,25,High School or Below,male,1
+800,15,November,35,High School or Below,male,1
+1000,15,December,30,Bachelor,male,1
+1000,30,April,26,High School or Below,male,1
+1000,30,January,29,High School or Below,male,1
+1000,30,March,26,High School or Below,male,1
+800,15,October,46,High School or Below,male,1
+1000,30,July,36,High School or Below,male,1
+1000,15,September,38,Bachelor,male,1
+1000,15,June,32,High School or Below,male,1
+1000,15,January,30,college,male,1
+800,15,January,35,High School or Below,male,1
+1000,30,July,29,college,female,1
+1000,30,January,26,college,male,1
+800,15,June,32,High School or Below,male,1
+1000,30,August,25,High School or Below,male,1
+1000,30,July,33,High School or Below,male,1
+800,15,April,39,college,male,1
+1000,30,November,28,college,male,1
+1000,30,October,26,college,male,1
+1000,30,December,26,college,male,1
+1000,15,September,28,college,male,1
+1000,30,March,39,college,male,1
+1000,15,May,29,Bachelor,male,1
+800,15,April,33,High School or Below,male,1
+1000,30,January,27,college,male,1
+800,15,June,34,college,male,1
+1000,30,September,26,High School or Below,male,1
+1000,30,November,28,High School or Below,male,1
+1000,15,July,32,Bachelor,male,1
+800,15,April,27,college,female,1
+1000,30,March,21,college,male,1
+800,15,June,39,college,male,1
+1000,15,November,38,college,male,1
+1000,30,March,36,High School or Below,female,1
+800,15,March,33,college,male,1
+1000,30,June,21,college,female,1
+800,15,April,25,High School or Below,male,1
+800,15,August,29,college,male,1
+1000,30,October,33,High School or Below,male,1
+1000,15,June,47,High School or Below,female,1
+1000,30,November,33,college,male,1
+800,15,December,23,High School or Below,male,1
+1000,15,September,24,college,male,1
+1000,30,July,27,High School or Below,male,1
+1000,30,April,32,Bachelor,male,1
+1000,30,June,33,college,male,1
+1000,30,June,27,college,female,1
+1000,30,August,35,High School or Below,male,1
+500,15,February,37,Bachelor,male,1
+800,15,January,28,Bachelor,male,1
+1000,15,February,33,college,male,1
+800,7,August,34,Bachelor,female,1
+1000,30,July,29,college,male,1
+1000,30,July,34,Bachelor,male,1
+1000,30,August,29,Bachelor,male,1
+1000,30,June,24,High School or Below,male,1
+1000,30,June,34,High School or Below,male,1
+1000,30,April,25,college,female,1
+1000,30,June,24,college,male,1
+1000,30,May,30,college,male,1
+1000,15,April,28,college,male,1
+1000,30,October,24,High School or Below,male,1
+1000,30,July,26,college,female,1
+1000,30,January,24,High School or Below,male,1
+1000,15,June,29,college,male,1
+1000,30,July,31,college,male,1
+1000,30,February,26,college,male,1
+1000,30,January,25,High School or Below,male,1
+1000,30,September,29,college,male,1
+1000,30,October,38,college,male,1
+800,15,August,41,college,male,1
+1000,15,May,26,High School or Below,male,1
+1000,30,July,26,High School or Below,male,1
+1000,30,September,35,High School or Below,male,1
+1000,15,September,37,college,male,1
+1000,30,February,25,college,male,1
+1000,30,October,24,college,male,1
+1000,30,June,34,college,male,1
+800,15,July,33,college,male,1
+800,15,May,38,Bachelor,male,1
+1000,30,June,38,High School or Below,male,1
+1000,30,June,26,college,male,1
+1000,15,May,37,Bachelor,male,1
+1000,30,April,42,High School or Below,female,1
+1000,30,October,49,High School or Below,female,1
+1000,30,October,26,High School or Below,male,1
+1000,15,February,41,High School or Below,male,1
+1000,30,June,38,High School or Below,male,1
+1000,30,September,26,High School or Below,male,1
+1000,15,September,32,High School or Below,male,1
+1000,30,January,27,Bachelor,male,1
+800,15,October,33,college,male,1
+1000,30,July,30,High School or Below,male,1
+800,15,February,26,High School or Below,female,1
+1000,30,July,35,college,female,1
+800,15,March,46,college,female,1
+1000,30,December,27,college,male,1
+1000,15,March,22,High School or Below,male,1
+1000,30,August,27,Bachelor,male,1
+1000,15,October,30,Bachelor,male,1
+1000,15,December,27,High School or Below,male,1
+800,15,September,47,college,male,1
+1000,30,February,30,college,male,1
+1000,30,February,26,college,male,1
+1000,30,September,38,High School or Below,male,1
+800,15,March,46,High School or Below,male,1
+1000,30,October,35,Bachelor,male,1
+1000,15,April,45,college,male,1
+1000,30,November,36,college,male,1
+1000,30,August,38,High School or Below,male,1
+1000,30,February,27,college,male,1
+1000,30,September,27,Bachelor,male,1
+1000,15,February,29,college,male,1
+1000,30,September,30,High School or Below,male,1
+1000,30,December,28,High School or Below,male,1
+1000,15,July,26,High School or Below,male,1
+800,15,June,30,college,male,1
+1000,30,March,38,college,female,1
+1000,30,March,28,High School or Below,male,1
